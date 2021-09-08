@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="str.strftime" />
+          <option value="str.day" />
+          <option value="str.month" />
+          <option value="str.year" />
+          <option value="int.day" />
+          <option value="int.month" />
+          <option value="int.year" />
+          <option value="int.int" />
+          <option value="datetime.datetime.__sub__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
